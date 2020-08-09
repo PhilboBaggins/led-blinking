@@ -1,0 +1,39 @@
+{
+  "uuid": "a2479ef5fbb61d1394d173e485cbd46d",
+  "path": "Offline/LED blinking",
+  "name": "LED blinking",
+  "content": "",
+  "created_at": "2020-08-09 22:10:03",
+  "updated_at": "2020-08-09 22:10:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "71f08b10efd13dc360a8973482fbe746",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1596975023,
+      "createTime": 1596975023,
+      "histories": [],
+      "created_at": "2020-08-09 22:10:23",
+      "updated_at": "2020-08-09 22:10:23"
+    }
+  ],
+  "sort": [],
+  "title": "LED blinking",
+  "foldername": "LED blinking",
+  "schfilename": "LED blinking.json",
+  "schfilemtime": 1596975023339
+}
