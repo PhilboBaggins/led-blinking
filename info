@@ -4,7 +4,7 @@
   "name": "LED blinking",
   "content": "",
   "created_at": "2020-08-09 22:10:03",
-  "updated_at": "2020-08-09 22:25:43",
+  "updated_at": "2020-08-09 22:31:27",
   "stick": "",
   "documents": [
     {
@@ -18,8 +18,8 @@
         "c9f5a24de7d9962ed69808324826d717": 1,
         "b0248eb51e084227889f2cb84eab79c4": 4,
         "5cbe824183374fac8e4c1ae848199ce3": 2,
-        "a7a0e276dadd4f8097422d2afc2e1b9c": 2,
-        "c783181108d24b8a9a58f10b54d99b52": 2
+        "c783181108d24b8a9a58f10b54d99b52": 2,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 2
       },
       "BOM": [
         [
@@ -41,19 +41,6 @@
             "BOM_Supplier": "LCSC",
             "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
             "uuid": "5cbe824183374fac8e4c1ae848199ce3"
-          }
-        ],
-        [
-          "1u",
-          2,
-          "CASE-A_3216",
-          "C1,C2",
-          {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
-            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
-            "uuid": "a7a0e276dadd4f8097422d2afc2e1b9c"
           }
         ],
         [
@@ -110,18 +97,54 @@
             "puuid": "b9439a1968ef48dc9db0532820b9be94",
             "uuid": "c783181108d24b8a9a58f10b54d99b52"
           }
+        ],
+        [
+          "10u",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
         ]
       ],
-      "updateTime": 1596975943,
+      "updateTime": 1596976157,
       "createTime": 1596975023,
       "histories": [],
       "created_at": "2020-08-09 22:10:23",
-      "updated_at": "2020-08-09 22:25:43"
+      "updated_at": "2020-08-09 22:29:17"
+    },
+    {
+      "uuid": "27a1a1a6b08d7214b5bc4a90b22dc344",
+      "puuid": "a2479ef5fbb61d1394d173e485cbd46d",
+      "title": "PCB_2020-08-09_22-29-28",
+      "filename": "PCB_2020-08-09_22-29-28.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 2,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 4,
+        "e6b180e1316a4d0690f78b72797504c2": 1,
+        "b9439a1968ef48dc9db0532820b9be94": 2,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 2
+      },
+      "BOM": [],
+      "updateTime": 1596976287,
+      "createTime": 1596976168,
+      "histories": [],
+      "created_at": "2020-08-09 22:29:28",
+      "updated_at": "2020-08-09 22:31:27"
     }
   ],
   "sort": [],
   "title": "LED blinking",
   "foldername": "LED blinking",
   "schfilename": "LED blinking.json",
-  "schfilemtime": 1596975943388
+  "schfilemtime": 1596976157277
 }
