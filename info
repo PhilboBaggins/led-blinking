@@ -4,7 +4,7 @@
   "name": "LED blinking",
   "content": "",
   "created_at": "2020-08-09 22:10:03",
-  "updated_at": "2020-08-09 22:10:23",
+  "updated_at": "2020-08-09 22:25:43",
   "stick": "",
   "documents": [
     {
@@ -14,7 +14,13 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {},
+      "components": {
+        "c9f5a24de7d9962ed69808324826d717": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 4,
+        "5cbe824183374fac8e4c1ae848199ce3": 2,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 2,
+        "c783181108d24b8a9a58f10b54d99b52": 2
+      },
       "BOM": [
         [
           "Value",
@@ -22,18 +28,100 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "LED-0603_R",
+          2,
+          "LED0603_RED",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "a7a0e276dadd4f8097422d2afc2e1b9c"
+          }
+        ],
+        [
+          "50k",
+          2,
+          "R0603",
+          "R2,R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "500",
+          2,
+          "R0603",
+          "R3,R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "2.54mm 1*2P",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "2.54mm 1*2P",
+            "BOM_Supplier Part": "C36717",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "c9f5a24de7d9962ed69808324826d717"
+          }
+        ],
+        [
+          "2SD1782KT146R",
+          2,
+          "SOT-346_L2.9-W1.5-P1.90-LS2.5-TR-CW",
+          "Q1,Q2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C86593",
+            "BOM_Manufacturer": "ROHM Semicon",
+            "BOM_Manufacturer Part": "2SD1782KT146R",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "b9439a1968ef48dc9db0532820b9be94",
+            "uuid": "c783181108d24b8a9a58f10b54d99b52"
+          }
         ]
       ],
-      "updateTime": 1596975023,
+      "updateTime": 1596975943,
       "createTime": 1596975023,
       "histories": [],
       "created_at": "2020-08-09 22:10:23",
-      "updated_at": "2020-08-09 22:10:23"
+      "updated_at": "2020-08-09 22:25:43"
     }
   ],
   "sort": [],
   "title": "LED blinking",
   "foldername": "LED blinking",
   "schfilename": "LED blinking.json",
-  "schfilemtime": 1596975023339
+  "schfilemtime": 1596975943388
 }
