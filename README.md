@@ -6,7 +6,7 @@ Designed using [EasyEDA](https://easyeda.com/).
 
 ## Licence
 
-Copyright © 2020, 2021 Phil Baldwin
+Copyright © 2020, 2021, 2022 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
