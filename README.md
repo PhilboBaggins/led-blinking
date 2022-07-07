@@ -2,7 +2,7 @@
 
 A test of an blinking LED design.
 
-Designed using [EasyEDA](https://easyeda.com/).
+TODO: Add photo of completed board
 
 ## Licence
 
