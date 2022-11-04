@@ -2,7 +2,7 @@
 
 A test of an blinking LED design.
 
-TODO: Add photo of completed board
+![Photo of completed board](board-photo.jpg)
 
 ## Licence
 
