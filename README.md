@@ -2,7 +2,8 @@
 
 A test of an blinking LED design.
 
-![Photo of completed board](board-photo.jpg)
+![Photo of completed board](./board-photo.jpg)
+![Schematic](./Exports-v1.0.0/Schematic.png)
 
 ## Licence
 
